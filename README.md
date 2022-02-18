@@ -37,8 +37,12 @@ Específicos: • Definir y calcular las diferencias de fase entre formas de ond
 2. Marco Teórico:
 Capitulo 15
 
+![image](https://user-images.githubusercontent.com/94026628/154729587-98e265ab-befe-45ae-98ae-7721275295db.png)
+
 
 Capitulo 16
+
+![image](https://user-images.githubusercontent.com/94026628/154729621-18ca725a-4291-4c1f-8990-a37936dd949a.png)
 
 
 3.Explicacion y resolucion de ejercicios o problemas:
@@ -173,7 +177,33 @@ A) Z = 33Ω -j50Ω      B ) Z=300<-25°Ω   C) Z=1.8<-67.2° KΩ      D) Z=7
 
 ![image](https://user-images.githubusercontent.com/94026628/154712292-b3c0e4cf-c7fc-4be4-bdc0-7da448af52b4.png)
 
-CAPITULO 16
+41.Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
+
+![image](https://user-images.githubusercontent.com/94026628/154727888-9503e8c3-e1ac-4ca6-a213-e06177cfb205.png)
+
+![image](https://user-images.githubusercontent.com/94026628/154727910-9f52370c-7456-4e2d-8287-6b4140d48b55.png)
+
+43.Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar
+
+![image](https://user-images.githubusercontent.com/94026628/154728084-b06bd3cc-81b0-442d-9e63-5726eeac073c.png)
+
+![image](https://user-images.githubusercontent.com/94026628/154728101-b3fd2b5d-c4bd-4822-b995-5fdece011d3c.png)
+
+![image](https://user-images.githubusercontent.com/94026628/154728117-99f5ca68-6efd-4bb5-99ad-d550f0a955ba.png)
+
+![image](https://user-images.githubusercontent.com/94026628/154728157-05360d7e-d4ce-49b6-b686-ca252d9f3a1b.png)
+
+![image](https://user-images.githubusercontent.com/94026628/154728372-96b471ea-dc65-4aad-befd-8358b0a2fbb1.png)
+
+![image](https://user-images.githubusercontent.com/94026628/154728395-c0b68f99-6a02-4591-8a33-f96678ba0c63.png)
+
+![image](https://user-images.githubusercontent.com/94026628/154728413-4706a0db-e280-43d0-899c-019a1b08dae5.png)
+
+45.Para el circuito de la figura 15-97, determine lo siguiente:
+(a) Z (b) IR (c) (d) I (e) u
+
+![image](https://user-images.githubusercontent.com/94026628/154728466-39c77cd2-f408-4b78-9388-ac28ed63a0e6.png)
+
 
 11.Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
 
@@ -295,7 +325,9 @@ CAPITULO 16
 
 ![image](https://user-images.githubusercontent.com/94026628/154716960-5fbff173-edab-466f-89ea-f9594e7ee590.png)
 
-4.Video:
+
+
+4.Video:  https://youtu.be/cHcOdBwvyS0 
 
 5.Conclusiones:
 • Con la resolución de los ejercicios del capítulo 15 se calculó el voltaje sinusoidal instantáneo, valores promedio, valores efectivos en cualquier instante de tiempo. Se identificó la polaridad del voltaje y las convenciones de dirección de la corriente que se usan para corriente alterna al igual que su forma de onda para voltaje y corriente.
