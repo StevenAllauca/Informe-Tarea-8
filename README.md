@@ -10,7 +10,7 @@ Carrera: Ing. en Electrónica y Automatización
 
 NRC: 10133
 
-Docente: Ing. darwin alulema
+Docente: Ing. Darwin Alulema
 
 Tema: Cap 15 y 16
 
